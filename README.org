@@ -1,0 +1,9 @@
+* ndfa
+
+Implementation of non-deterministed finite automata
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jimka2001/ndfa.git |
+| commit  | 9fe9967                                   |
+| systems | ndfa                                      |
+|---------+-------------------------------------------|
